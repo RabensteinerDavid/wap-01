@@ -7,6 +7,7 @@ function a(){
     console.log("A")
 }
 
+console.log("v 1.0.0")
 a()
 b()
 c()
